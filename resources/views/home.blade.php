@@ -70,12 +70,12 @@
         <form class="container pt-5">
           <div class="form-row">
             <div class="form-group col-md-6">
-              <label for="inputName">Nombre Completo</label>
-              <input type="text" class="form-control" id="inputName" placeholder="Jhon Doe">
+              <label for="inputName">Nombre Completo *</label>
+              <input type="text" class="form-control" id="inputName" placeholder="Jhon Doe" required>
             </div>
             <div class="form-group col-md-6">
-              <label for="inputTitulo">Descripción / Cargo / Puesto</label>
-              <input type="text" class="form-control" id="inputTitulo" placeholder="Ingeniero en Sistemas">
+              <label for="inputTitulo">Descripción *</label>
+              <input type="text" class="form-control" id="inputTitulo" placeholder="Ingeniero en Sistemas" required>
             </div>
           </div>
           <div class="form-row">
@@ -87,7 +87,14 @@
               <label for="inputTelf">Telefono</label>
               <input type="text" class="form-control" id="inputTelf" placeholder="+591 76543210">
             </div>   
-          </div>      
+          </div>    
+          <div class="input-group mb-3">
+             
+            <div class="custom-file">
+              <input type="file" accept="image/png, image/jpeg" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+              <label class="custom-file-label" for="inputGroupFile01">Selecciona una Imagen PNG ó JPG</label>
+            </div>
+          </div>
           <div class="form-group row py-2">
             <h5 class="col-sm-3">Selecciona un Color : </h5>
             <div class="form-group col-sm-7">
@@ -103,7 +110,7 @@
               <div class="esfera mx-2 bg-bluedark"></div>
             </div>
           </div>        
-          <button type="button" class="btn btn-primary" onclick="copiar();">Generar Firma</button>
+          <button type="submit" class="btn btn-primary" onclick="copiar();">Generar Firma</button>
         </form>
 
         <section class="container">
