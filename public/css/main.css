@@ -78,43 +78,43 @@ header
   background-color: #17202A;
 }
 
-.esfera.bg-primary:active 
+.esfera.bg-primary.active,.esfera.bg-primary:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(0, 123, 255, 0.5);
 }
-.esfera.bg-warning:active 
+.esfera.bg-warning.active,.esfera.bg-warning:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(255, 193, 7, 0.5);
 }
-.esfera.bg-success:active 
+.esfera.bg-success.active,.esfera.bg-success:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(40, 167, 69, 0.5);
 }
-.bg-leaf:active 
+.bg-leaf.active,.bg-leaf:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(88, 214, 141, 0.5);
 }
-.esfera.bg-info:active 
+.esfera.bg-info.active,.esfera.bg-info:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(23, 163, 184, 0.5);
 }
-.bg-rose:active 
+.bg-rose.active,.bg-rose:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(175, 122, 197, 0.5);
 }
-.bg-orange:active 
+.bg-orange.active,.bg-orange:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(230, 126, 34, 0.5);
 }
-.esfera.bg-danger:active 
+.esfera.bg-danger.active,.esfera.bg-danger:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(220, 53, 69, 0.5);
 }
-.bg-steel:active 
+.bg-steel.active,.bg-steel:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(52, 73, 94, 0.5);
 }
-.bg-bluedark:active 
+.bg-bluedark.active,.bg-bluedark:active 
 {
   box-shadow: 0px 0px 0px 4px rgb(23, 32, 42, 0.5);
 }
