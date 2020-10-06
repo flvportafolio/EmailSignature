@@ -20,12 +20,12 @@ Este Sitio Web te permite por medio del rellenado de un formulario la generació
 ### Implementacion
 
 #### Microsoft Word 2019
-[word2019](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/word2019_screen.png)
+![word2019](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/word2019_screen.png)
 
 #### Correo Nativo de Windows 10
-[email1](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/correo_w10_screen1.png)
+![email1](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/correo_w10_screen1.png)
 
-[email2](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/correo_w10_screen2.png)
+![email2](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/correo_w10_screen2.png)
 
 ## License
 
