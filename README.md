@@ -8,7 +8,24 @@
 
 ## Email Signature (En Desarrollo)
 
-Esta Sitio Web te permite por medio el rellenado de un formulario la generación de firmas para correos como hotmail y gmail.
+Este Sitio Web te permite por medio del rellenado de un formulario la generación de firmas para correos como hotmail, gmail y tambien para Microsoft Word 2019.
+
+## Capturas de Pantalla
+
+### pagina principal
+| Pagina Principal | Pagina Principal - extendida |
+| ------ | ------ |
+| ![paginaprincipal1](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/captura1.png) | ![paginaprincipal2](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/captura2.png) |
+
+### Implementacion
+
+#### Microsoft Word 2019
+[word2019](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/word2019_screen.png)
+
+#### Correo Nativo de Windows 10
+[email1](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/correo_w10_screen1.png)
+
+[email2](https://github.com/flvportafolio/EmailSignature/blob/master/capturas/correo_w10_screen2.png)
 
 ## License
 

@@ -97,7 +97,7 @@
                 <div class="input-group-prepend">
                   <label class="input-group-text" for="inputLinkedin">linkedin.com/</label>
                 </div>
-                <input type="text" class="form-control" id="inputLinkedin" placeholder="">
+                <input type="text" class="form-control" id="inputLinkedin" placeholder="jhon-doe">
               </div>
             </div>
             <div class="form-group col-md-6">
@@ -106,7 +106,7 @@
                 <div class="input-group-prepend">
                   <label class="input-group-text" for="inputLinkedin">github.com/</label>
                 </div>
-                <input type="text" class="form-control" id="inputGithub" placeholder="">
+                <input type="text" class="form-control" id="inputGithub" placeholder="jhondoe">
               </div>
             </div>   
           </div>
@@ -150,9 +150,9 @@
                         <div class="col-md-12 py-1">
                           <a id="firma1_telf" href="https://wa.me/59176543210" >
                           <img src="data:image/png;base64, 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" width="26" height="26" alt="whatsapp logo"></a>
-                          <a id="firma1_linkedin" href="https://linkedin.com/in/" >
+                          <a id="firma1_linkedin" href="https://linkedin.com/in/jhon-doe" >
                             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJRSURBVEhLtZTPaxNBFMe/+yNxQ9x2U7Wm2nixCJUeBAkI9iK2Jy/+BdJ4ELyI4lHx7F0ovXnRnoqHeKwQ9GIRVAS1BysaqTHBtI3ZhPzY7I4zk2mz2aztNo0fWPa9t8v3+3b2zUi4kz4pSdJjScIlACq9BkGLEGQIISlZiM/S4qDEGSrTZNrUgHf+X2DaMr0PsnMvKjPwZdzQoNAWDkqPAZNMX08ie38Gr29dhKa06/3SY5AwIrhy9jiPzycMJGMtOhMNnvdDj0GuXMdqweRxvlTFxx8FoPQLaNZ4bb9I8t3nRMQ7REMypkeBt19/omi6hPVjgKaLJBi+Blen4oiqBE5lE0tvvtBxk3BtepI/yzXDeJk1MZdMYCquY6tmIf0pj5VsiT/34mvw7d5lnIpFeDxycwGyJKM4f4PnK2t5aNohnBuP8ZxBdyzmFt/hyXu6lB7+OaZuVLkzrhcm4l3iDPaFD2YngNofUekQyIAJuLn99BXCqUeYefiMd884PTqMuFKnJmWebxPQQASUasPC/IsPsB16mq2u43uxPXGMo7oGVIpdJoEM3GxW61x8m3KtKSL6L8TdbRLMwDUGjkucYTuOiDwwk7oZzIC4HMSS72B7C27M38EM3E17BXfTZ+xpYLWcrmXwLsleB67vRjujOwg129PxeX2DviRh8sQIzxuWjbVCZ9eOGVGExamf26rCsj0N+BlwKhu+G2e/MGt6Hvtw+AgQGRZJnyhqS6Y/KSPSXg5iooRAhsYy1ICkqMkyLe3yJYZIAkI7J0PxZaKqqb9QitDgiLHLggAAAABJRU5ErkJggg==" width="24" height="24" alt="linkedin"></a>
-                          <a id="firma1_github" href="https://github.com" >
+                          <a id="firma1_github" href="https://github.com/jhondoe" >
                             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHcSURBVEhLnZW7L0RBHEbXI0tIrEK1WvEqZImKeBRaoqCRCKFTSiQajb+BnkaI1YtKRbGFCtFQqIgQSgTf2TtzMzsmu3v3JCcz5s7vm72PGXWpygzKSdkvOxgQL/JGnssrBpJSL5fktfytIHOYS01VdMlLGQorJzXUlmVUvspQQDVSS0aQAfkuQ4VJJIOsElrknbSTjuWsab/NWEiuHcppeWLGkCwyY7alW7goLUNy2bSdRnfMwot2M8gskpH+o1mQSaHGzSAzw6c1L9ukS7tpk+DXkDlHJy/dldlAjTIp1FDrZuW5g5x0OZC8vKRQQ61LjgWyUT/m3rS18GBaS5YF0lE/ptm0tdBkWkuaBT6ifkyPaWuh27SWYnZBui/mVlZzyvpQ47/kAndwIV165WrUTQQ1fVE3ppg9Ie2KX6b9lBvSf6YheGebkhqbYyW7eGv802BgS47IR/P3k9yTnDU+M3JfPks31Epm/Kin5I/kwrocl+4vGpM+jNnrvmSRWcKO5OKbZJsPS+6IQ61B+vBo7I/y3ZX/YD+cSiacSXY4If45ZeFoCC1Ahr+3Ygg8knayDQidTaEFqK1qo/LJ8YJtYegXuQswd0UmolWuSb4U9osPXwhfGHOYGyCV+gP9vss+87vA5QAAAABJRU5ErkJggg==" width="24" height="24" alt="github"></a>
                           <img id="firma1_geo" src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJVSURBVEhLrZSxT1NRFMZPSxvagqEgkuAgmw78AYQEDAnRQYnBwUUmI6sE4oQmEJjYKMSwmOjCSmKUuApqxBEHB0MiaExIUGhLoC2lCt+59/B4t+/etoO/5PT7znuv57z77nkvRFXYHujpg9xE3EJ0IJoQm4jXiLn25Y9bUCfOBiichEwiHiIu8DEH3GRUfABrAyn+EjGoDlTnA5pcF28QFi1nAuEVzx2XaCu7Txt7Gfq2m6Zf+weUPSrKWUUvbmpRvEFgBbiQ7+QdQjX/k8vTbr7ANsDFeIxaE3HJFFexkg3xCtsK7iLU8YPi8VnxDGIM0dy39pVvir06x9f4eCLqYWvgPZpM4UgcTaNwCsGNiD3kAft0wVhdYM9sDS6JUqFUEkdLon5e8U8e++ODR9jA1sDjRBQmK85PVNRPYE9tDX6LUn1dnTYhuqeNwRD/xCIRlQjroh62Bsui1IIpEZ6vdHcOs4EmEY9g+SWkZKye5YzPoh62Mb0C+aEzop3DHDbS22yDZhRva0hIRjxONzCmqzrVBFaAC35CvJeGC7Q3NlBcHkU4FKJENKKO+YozC+XFmUqfirTOTHjjLX/i8b2GBjs6Pcc6RbiQ/zCiMxPrHRGlbMUZ55ie/AsvQCp+igW+Zk7bIM4Gl9++/wtRn4QqjMuKrThWfA72g0evS2cB3qD4HfFWnCvwcV+0HP5GzGjrpmoD3OF3yAudGTzDuU/indSyAuYxIqetgp/5lLaVqamBbOJTnSlmK22sn1pXQNFSkUeRR/ILYp6P/XcwUbcR/ZLWANEpOMyrwfdDbGEAAAAASUVORK5CYII=" width="24" height="24" alt="ubicacion" title="Santa Cruz, Bolivia" role="button">
                         </div>
@@ -186,6 +186,8 @@
       var descripcion="";
       var ubicacion="";
       var telefono="";
+      var linkedin="";
+      var github="";
       var color="#007bff";
 
       function setActive(item,bgcolor)
@@ -208,6 +210,8 @@
         ubicacion=$('#inputAddress').val();
         //se usara esta validacion por el momento
         telefono=($('#inputTelf').val()!="")? ($('#inputTelf').val().match(/\d/g)).join("")  :  0;
+        linkedin=$('#inputLinkedin').val();
+        github=$('#inputGithub').val();
         
         //generacion de firmas
         /* $('#firmas_generadas').html("");
@@ -224,6 +228,8 @@
         $('#firma1_titulo').text(descripcion);
         $('#firma1_geo').attr("title",ubicacion);
         $('#firma1_telf').attr("href", "https://wa.me/"+telefono);
+        $('#firma1_linkedin').attr("href", "https://linkedin.com/in/"+linkedin);
+        $('#firma1_github').attr("href", "https://github.com/"+github);
         
       }
 
